@@ -33,6 +33,10 @@
   color: white;
 }
 
+.bar:nth-child(even) {
+  background: #6B9997;
+}
+
 .bar:nth-child(2) {
   left: 5%;
 }
